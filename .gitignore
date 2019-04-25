@@ -1,2 +1,5 @@
 .idea
+
 circularsniffer.egg-info
+
+__pycache__
